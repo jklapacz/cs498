@@ -1,0 +1,8 @@
+NOTE: It is okay if you get low numbers for these counts. But it might help if you explain why.
+Counts:                  [  4.   7.   9.   2.   1.   2.  10.   5.   3.   6.]
+Probabilities:           [  4.00000000e-05   7.00000000e-05   9.00000000e-05   2.00000000e-05
+   1.00000000e-05   2.00000000e-05   1.00000000e-04   5.00000000e-05
+   3.00000000e-05   6.00000000e-05]
+Mean:                    0.0
+Standard deviation:      0.0
+Number of seconds:       159.0

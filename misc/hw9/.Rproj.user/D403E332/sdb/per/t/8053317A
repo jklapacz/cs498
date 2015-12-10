@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1447115068772.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8053317A",
+    "lastKnownWriteTime" : 5796251902688387427,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "seedsdat",
+        "contentUrl" : "content?title=seedsdat&file=329cd7bc91d54f3395e8e67785520eb2.htm",
+        "displayedObservations" : 210,
+        "displayedVariables" : 8,
+        "totalObservations" : 210,
+        "variables" : 8
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
