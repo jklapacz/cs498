@@ -92,7 +92,7 @@ def kmeans_setup(data):
 
 def histograms(category, estimator):
 	hist_num = 0
-	make_hist = True
+	make_hist = False
 	for trial in category_z[category]:
 		if hist_num == 3:
 			make_hist = False
@@ -198,6 +198,8 @@ def main(load = 0):
 	print len(y)
 	# print len(np.unique(y))
 	print len(np.unique(y_train))
+	print np.unique(y_train)
+	print np.unique(y_test)
 	print len(np.unique(y_test))
 	# print np.unique(y_test) 
 	# print classifier_predictions
